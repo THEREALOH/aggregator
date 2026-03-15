@@ -1,4 +1,4 @@
-# Aggregator - 免费代理池构建工具
+export PUSH_TOKEN=your_github_token# Aggregator - 免费代理池构建工具
 
 [![GitHub stars](https://img.shields.io/github/stars/wzdnzd/aggregator.svg)](https://github.com/wzdnzd/aggregator/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/wzdnzd/aggregator.svg)](https://github.com/wzdnzd/aggregator/network)
